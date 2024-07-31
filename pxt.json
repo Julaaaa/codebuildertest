@@ -1,6 +1,5 @@
 {
     "name": "Agent-Dance-Test",
-    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -10,7 +9,8 @@
         "main.blocks",
         "main.ts",
         "README.md",
-        "tutorial-info-cache.json"
+        "tutorial-info-cache.json",
+        "main.py"
     ],
     "testFiles": [
         "test.ts"
